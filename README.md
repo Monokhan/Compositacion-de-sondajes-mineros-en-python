@@ -1,6 +1,6 @@
-# Compositacion-de-sondajes-mineros-en-python
-Compositación de sondajes
-
+# Compositacion-de-sondajes-mineros-en-Python
+Compositación de sondajes en Python.
+Historama de ley de cobre y modelo de bloques.
 Este ejercicio proporciona un enfoque práctico para analizar datos de sondajes en minería. Al combinar visualizaciones efectivas con un modelo de bloques, se obtiene una herramienta útil para la toma de decisiones en la exploración y explotación mineral.
 
 Ejemplo
